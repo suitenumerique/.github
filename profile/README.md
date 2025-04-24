@@ -1,15 +1,18 @@
-# 🇪🇺 The Sovereign Workspace
+# Come build the future of online collaboration with us
+<p align="center">
+  <a href="https://hackdays.numerique.gouv.fr/"><b>🌐 Hack Days Official Website</b></a>
+</p>
+<img src="/assets/banner-hack-days.jpeg">
+
+🗓️ We're organizing the **Hack Days 👩‍💻🎾👨‍💻**! A hackathon on June 2nd, 3rd and 4th in Paris. **[🚀 Form a team, submit a project](https://github.com/suitenumerique/hackdays2025).**
+
+## 🇪🇺 The Sovereign Workspace
 La Suite numérique (La Suite for short) is a full blown open-source digital workspace for online collaboration and teamwork. 
 
 <img src="/assets/apps.png">
 
 ## 🛠️ Build with us
-Our code base is a 100% open source and MIT licenced.
-
-🗓️ We're organizing the [Hack Days](https://hackdays.numerique.gouv.fr/): a hackathon the 2,3 and 4th of June in Paris.
-Come build the future of online collaboration with us. 
-
-[🚀 Form a team, submit a project](https://github.com/suitenumerique/hackdays2025).
+Our code base is a 100% open source and MIT licenced. 
 
 ## ℹ️ About La Suite
 La Suite is built by French government agencies [DINUM](https://www.numerique.gouv.fr/) and [ANCT](https://anct.gouv.fr/). 
