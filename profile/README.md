@@ -9,10 +9,8 @@
 ## 🇪🇺 The Sovereign Workspace
 La Suite numérique (La Suite for short) is a full blown open-source digital workspace for online collaboration and teamwork. 
 
-<img src="/assets/apps.png">
+<img src="/assets/apps.png"> 
 
-## 🛠️ Build with us
-Our code base is a 100% open source and MIT licenced. 
 
 ## ℹ️ About La Suite
 La Suite is built by French government agencies [DINUM](https://www.numerique.gouv.fr/) and [ANCT](https://anct.gouv.fr/). 
@@ -21,6 +19,13 @@ It is also the product of a close european collaboration with the Netherlands an
 <p align="center">
   <img src="/assets/europe_opensource.png" width="50%"/>
 </p>
+
+## 🛠️ Build with us
+Our code base is a 100% open source and MIT licenced.
+
+## ✉️ Get in touch
+Send us an email: [lasuite@numerique.gouv.fr](mailto:lasuite@numerique.gouv.fr)
+Come say hello on [Matrix](https://matrix.to/#/#la-suite:matrix.org)
 
 
 ## 🔗 Learn more
