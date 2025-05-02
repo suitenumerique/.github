@@ -17,7 +17,7 @@ La Suite is built by French government agencies [DINUM](https://www.numerique.go
 It is also the product of a close european collaboration with the Netherlands and German state.
 
 <p align="center">
-  <img src="/assets/europe_opensource.png" width="50%"/>
+  <img src="/assets/europe_opensource.png" width="30%"/>
 </p>
 
 ## 🛠️ Build with us
