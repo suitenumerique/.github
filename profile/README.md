@@ -25,6 +25,7 @@ Our code base is a 100% open source and MIT licenced.
 
 ## ✉️ Get in touch
 Send us an email: [lasuite@numerique.gouv.fr](mailto:lasuite@numerique.gouv.fr)
+
 Come say hello on [Matrix](https://matrix.to/#/#la-suite:matrix.org)
 
 
