@@ -1,10 +1,18 @@
-# Come build the future of online collaboration with us
-<p align="center">
-  <a href="https://hackdays.numerique.gouv.fr/"><b>🌐 Hack Days Official Website</b></a>
-</p>
+# Thanks for coming to the Hack Days 🫶
 <img src="/assets/banner-hack-days.jpeg">
 
-🗓️ We're organizing the **Hack Days 👩‍💻🎾👨‍💻**! A hackathon on June 2nd, 3rd and 4th in Paris. **[🚀 Form a team, submit a project](https://github.com/suitenumerique/hackdays2025).**
+We had blast:
+- 300 people
+- 15+ countries
+- Students, Researchers, Public Agents, Seasonned developpers and designers
+
+Big congrats to the winners : 
+🥇 [VRC Team: Visio Room Connector](https://github.com/suitenumerique/hackdays2025/tree/main/submissions/vrc-team)
+🥈 [OpenProject - Hacking Borders: Docs x OpenProject Integration
+🥉 HaXathon: Math in Docs
+🧑‍🤝‍🧑 People's choice: Panographix Tables and graphs in Docs
+
+Full list of projects available here.
 
 ## 🇪🇺 The Sovereign Workspace
 La Suite numérique (La Suite for short) is a full blown open-source digital workspace for online collaboration and teamwork. 
