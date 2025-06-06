@@ -1,5 +1,5 @@
 # Thanks for coming to the Hack Days 🫶
-<img src="/assets/banner-hack-days.jpeg">
+<img src="/assets/oss-family.jpeg">
 
 We had blast:
 - 300 people
@@ -7,12 +7,12 @@ We had blast:
 - Students, Researchers, Public Agents, Seasonned developpers and designers
 
 Big congrats to the winners : 
-🥇 [VRC Team: Visio Room Connector](https://github.com/suitenumerique/hackdays2025/tree/main/submissions/vrc-team)
-🥈 [OpenProject - Hacking Borders: Docs x OpenProject Integration
-🥉 HaXathon: Math in Docs
-🧑‍🤝‍🧑 People's choice: Panographix Tables and graphs in Docs
+- 1st 🥇: [VRC Team: Visio Room Connector](https://github.com/suitenumerique/hackdays2025/tree/main/submissions/vrc-team)
+- 2nd 🥈: [OpenProject - Hacking Borders: Docs x OpenProject Integration](https://github.com/suitenumerique/hackdays2025/tree/main/submissions/openproject-hacking-borders)
+- 3rd 🥉: [HaXathon: Math in Docs](https://github.com/suitenumerique/hackdays2025/tree/main/submissions/haxathon)
+- People's choice 🧑‍🤝‍🧑: [People's choice: Panographix Tables and graphs in Docs](https://github.com/suitenumerique/hackdays2025/tree/main/submissions/panographix)
 
-Full list of projects available here.
+Full list of projects available [here](https://github.com/suitenumerique/hackdays2025/tree/main/submissions).
 
 ## 🇪🇺 The Sovereign Workspace
 La Suite numérique (La Suite for short) is a full blown open-source digital workspace for online collaboration and teamwork. 
