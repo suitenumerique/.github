@@ -6,16 +6,12 @@
 
 ## 🇪🇺 L'espace de travail collaboratif et souverain
 
-***
-
 <img src="/assets/apps.png">
 
 
 **[LaSuite](https://lasuite.numerique.gouv.fr)** est l'espace de travail ouvert et souverain des agents de l'État. À travers une suite cohérente d'outils open source, sécurisés et simples d'utilisation, LaSuite permet à tout agent public de créer, organiser, décider et collaborer en toute confiance.
 
 ## ℹ️ À propos de LaSuite
-
-***
 
 LaSuite est portée par la Direction Interministérielle du Numérique (DINUM) et l'Agence Nationale de Cohésion des Territoires (ANCT). Plusieurs des produits proposés ont par ailleurs été construits en étroite collaboration avec les États néerlandais et allemand.
 
@@ -43,17 +39,11 @@ Et d'autres outils annexes sont en cours de développement : **[Projets](https:/
 
 ## 🛠️ Construisez LaSuite avec nous
 
-***
-
 Notre codebase est 100 % open source et sous licence MIT. Vous pouvez donc la cloner, réaliser un fork ou proposer vos suggestions dans des issues GitHub. Les manières de contribuer diffèrent selon les produits, n'hésitez pas à vous référer au README de chaque dépôt.
-
-***
 
 # 🇬🇧 English version
 
 ## 🇪🇺 The sovereign collaborative workspace
-
-***
 
 <img src="/assets/apps.png">
 
@@ -61,8 +51,6 @@ Notre codebase est 100 % open source et sous licence MIT. Vous pouvez donc la cl
 **[LaSuite](https://lasuite.numerique.gouv.fr)** is the open and sovereign workspace for government agents. Through a cohesive suite of open-source, secure, and easy-to-use tools, LaSuite enables every public servant to create, organize, decide, and collaborate with confidence.
 
 ## ℹ️ About LaSuite
-
-***
 
 LaSuite is led by the Direction Interministérielle du Numérique (DINUM) and the Agence Nationale de Cohésion des Territoires (ANCT). Several of the products offered have also been built in close collaboration with the Dutch and German governments.
 
@@ -89,7 +77,5 @@ Today, LaSuite is made of the following core products:
 Additional tools are currently in development: **[Projets](https://github.com/suitenumerique/projects)**, Calendrier, **[Recherche](https://github.com/suitenumerique/find)**, **[Transcription](https://github.com/suitenumerique/dictaphone)**, **[la Régie](https://github.com/suitenumerique/people)**, **[Messages](https://github.com/suitenumerique/messages)**, and **[l'Assistant IA](https://github.com/suitenumerique/conversations)**.
 
 ## 🛠️ Build LaSuite with us
-
-***
 
 Our codebase is 100% open source and licensed under MIT. You can clone it, fork it, or submit your suggestions through GitHub issues. Contribution methods may vary depending on the product, so feel free to refer to each repository’s README.
