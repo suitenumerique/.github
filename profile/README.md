@@ -2,7 +2,7 @@
 
 # Bienvenue sur LaSuite
 
-🇬🇧 *English version below*
+[🇬🇧 *English version below*](#ℹ️-about-lasuite)
 
 ## 🇪🇺 L'espace de travail collaboratif et souverain
 
