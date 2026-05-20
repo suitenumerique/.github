@@ -21,7 +21,7 @@ LaSuite est portée par la Direction Interministérielle du Numérique (DINUM) e
 
 Aujourd'hui, LaSuite est composée des produits principaux suivants:
 
-* Tchap - la messagerie instantanée et sécurisée de l'État, utilisée par plus de 600 000 agents.
+* **[Tchap](https://github.com/tchapgouv)** - la messagerie instantanée et sécurisée de l'État, utilisée par plus de 600 000 agents.
 
 * **[Visio](https://github.com/suitenumerique/meet)** - la solution de visioconférence, qui vous permet d'organiser des réunions en ligne en toute confiance et en toute sécurité.
 
@@ -29,9 +29,9 @@ Aujourd'hui, LaSuite est composée des produits principaux suivants:
 
 * **[Fichiers](https://github.com/suitenumerique/drive)** - l'outil qui vous permet de centraliser vos fichiers et de les partager avec les bonnes personnes.
 
-* Grist - le tableur collaboratif qui vous aide à structurer vos bases de données.
+* **[Grist](https://grist.numerique.gouv.fr)** - le tableur collaboratif qui vous aide à structurer vos bases de données. Basé sur [grist-core](https://github.com/gristlabs/grist-core).
 
-* France Transfert - l'outil d'envoi et de réception de fichiers volumineux pensé pour les besoins de l'administration.
+* **[France Transfert](https://github.com/numerique-gouv/francetransfert)** - l'outil d'envoi et de réception de fichiers volumineux pensé pour les besoins de l'administration.
 
 * **[Messagerie](https://github.com/suitenumerique/messagerie)** - le client e-mail nouvelle génération des agents publics.
 
@@ -60,7 +60,7 @@ LaSuite is led by the Direction Interministérielle du Numérique (DINUM) and th
 
 Today, LaSuite is made of the following core products:
 
-* **[Tchap](https://tchap.gouv.fr)** – the State’s secure instant messaging platform, used by more than 600,000 agents.
+* **[Tchap](https://github.com/tchapgouv)** – the State’s secure instant messaging platform, used by more than 600,000 agents.
 
 * **[Visio](https://github.com/suitenumerique/meet)** – the video conferencing solution that allows you to host online meetings with confidence and security.
 
@@ -68,9 +68,9 @@ Today, LaSuite is made of the following core products:
 
 * **[Fichiers](https://github.com/suitenumerique/drive)** – the tool that lets you centralize your files and share them with the right people.
 
-* **[Grist](https://grist.numerique.gouv.fr)** – the collaborative spreadsheet that helps you structure your databases.
+* **[Grist](https://grist.numerique.gouv.fr)** – the collaborative spreadsheet that helps you structure your databases. Based on [grist-core](https://github.com/gristlabs/grist-core).
 
-* **[France Transfert](https://francetransfert.numerique.gouv.fr)** – the tool for sending and receiving large files, designed for administrative needs.
+* **[France Transfert](https://github.com/numerique-gouv/francetransfert)** – the tool for sending and receiving large files, designed for administrative needs.
 
 * **[Messagerie](https://github.com/suitenumerique/messagerie)** – the next-generation email client for public servants.
 
